@@ -1,7 +1,8 @@
-First of all an embedded system is that system which has computer hardware with software embedded in it.
-An Embedded System is controlled by an internal microprocessor or microcontroller instead of an external
-control unit.Think of anything that provides you with programmable options. Any electronic system that 
-allows users to interact, provides options for configuring behavior,is an embedded system.
+First of all an embedded system is that system which has computer hardware with 
+software embedded in it. An Embedded System is controlled by an internal microprocessor
+ or microcontroller instead of an external control unit.Think of anything that provides 
+you with programmable options. Any electronic system that allows users to interact, 
+provides options for configuring behavior,is an embedded system.
 
 
 These are some of the basic embedded systems that i found in my daily routine:
@@ -16,5 +17,40 @@ Smart Phone
 Telephone
 Traffic Signals
 Vending Machines
-
 And list will go on.
+
+
+Calculator - best real life example of embedded system :-
+
+The calculator is the most common example of an embedded system, I must say.
+We all used calculators in our daily life to solve our mathematical problems.
+A calculator is the embedded system that was developed very early.
+In it we give input from the keyboard, the embedded system performs the gives function like 
+Add, Subtract etc and displays the result on LCD.
+Nowadays, the scientific calculators are used. They have a very high-performance processor
+These calculators have the ability to perform the complex mathematical functions.
+These calculators can be programmable.It is just because of the embedded system,
+ that these scientific calculators are advanced in their function as compared to simple calculators..
+
+An electronic calculator was one of the first applications of an embedded microcontroller.
+.It is considered an embedded system because in addition to calculating answers, it is also 
+handling low level functions such as input from the keypad and output to the LCD screen.
+And it is a dedicated system for performing mathematical operation.Physicists and engineers use
+ scientific calculators, which are much more advanced than standard calculators. These calculators
+ have large screens that can display graphs or multiple lines of calculations.
+
+
+Applications of calculator :-
+
+Used for performing calculations involving addition, subtraction, multiplication, division, roots, powers,
+ exponentiation, logarithms, trigonometric functions, inverse trigonometric functions, iterative solutions
+ for transcendental equations, differential and integral calculus, elementary statistics and matrix algebra. 
+In addition to straightforward calculation problems, the contest shall include geometric and stated
+ problems similar to those found in recently adopted high school algebra, geometry, and trigonometry, 
+pre-calculus and calculus.
+
+References :-
+https://en.m.wikipedia.org/wiki/Embedded_system
+https://www.slideshare.net/Terminatorsos/the-calculator-71596281
+
+
